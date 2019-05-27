@@ -5,7 +5,7 @@
 
 ## 2D and 3D plots using python
 
-![2D](images/1.png "plot of function and its derivative")
+(images/1.png "plot of function and its derivative")
 
 
 ![2D](images/2.png "position,velocity and acceleration of partical wrt time")
